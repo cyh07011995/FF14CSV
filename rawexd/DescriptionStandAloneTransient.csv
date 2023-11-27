@@ -14,5 +14,9 @@ int32,str,str
 9,DEEP DUNGEON,深層迷宮解說
 10,DEEP DUNGEON,深層迷宮解說
 11,DEEP DUNGEON,深層迷宮解說
-12,,時尚配飾解說
-13,,套裝解說
+12,FASHION ACCESSORIES,時尚配飾解說
+13,GEARSET,套裝解說
+14,PvP,玩家對戰解說
+15,RIVAL WINGS,烈羽爭鋒解說
+16,FRONTLINE,紛爭前線解說
+17,CRYSTALLINE CONFLICT,水晶衝突解說
