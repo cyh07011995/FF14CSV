@@ -8,7 +8,7 @@ int32,str,str
 3,TEXT_REGWILGLAGUILD_00063_A1_000_2,什麼是「劍術」？
 4,TEXT_REGWILGLAGUILD_00063_A1_000_3,取消
 5,TEXT_REGWILGLAGUILD_00063_MYLLA_010,我叫密拉，<hex:02100103>是劍術師公會的會長。<hex:02100103>不要因為我是女人就敢小看我。
-6,TEXT_REGWILGLAGUILD_00063_MYLLA_011,我可以溫柔地告訴你，<hex:02100103>我這個會長是以怎樣的實力，來統率這群狂暴的劍術師們的。<hex:02100103>……當然是用劍來告訴你。
+6,TEXT_REGWILGLAGUILD_00063_MYLLA_011,我可以温柔地告訴你，<hex:02100103>我這個會長是以怎樣的實力，來統率這群狂暴的劍術師們的。<hex:02100103>……當然是用劍來告訴你。
 7,TEXT_REGWILGLAGUILD_00063_MYLLA_012,哼哼……開玩笑的。<hex:02100103>好了，你可以慢慢地參觀學習下。<hex:02100103>不過小心不要隨便出手，免得受傷。
 8,TEXT_REGWILGLAGUILD_00063_MYLLA_020,「劍術」即用劍作為武器的戰鬥本領。<hex:02100103>在艾歐澤亞，劍是最普通的武器。
 9,TEXT_REGWILGLAGUILD_00063_MYLLA_021,正因如此，那些一心想要在戰鬥道路上走下去的人，<hex:02100103>都會想要嘗試一下用劍。<hex:02100103>為了讓無法實現的夢想成為現實……
@@ -63,4 +63,4 @@ int32,str,str
 58,TEXT_REGWILGLAGUILD_00063_MYLLA_000_126,以裝備的盾牌躲避敵人的攻擊，<hex:02100103>在抵擋住對方的攻擊後，<hex:02100103>再以起死回生的必殺技來扭轉局勢！
 59,TEXT_REGWILGLAGUILD_00063_MYLLA_000_127,勇猛且華麗……這就是劍術。<hex:02100103>如果你能投入更多的努力，那麼就有可能實現夢想。<hex:02100103>就像「納爾札爾雙劍」他們那樣……
 60,TEXT_REGWILGLAGUILD_00063_MYLLA_000_128,勇猛且華麗……這就是劍術。<hex:02100103>劍術每天都在進化，劍術之路永無止境……<hex:02100103><hex:022903EB0203>也不要忘記追尋更高的境界！
-61,TEXT_REGWILGLAGUILD_00063_TALK_ACTOR,（★未使用／削除予定★）
+61,TEXT_REGWILGLAGUILD_00063_TALK_ACTOR,
