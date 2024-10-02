@@ -1,2 +1,2 @@
 # FF14CSV
-Version 6.51 Translate to 6.45
+Version 7.05 Translate to 6.58
