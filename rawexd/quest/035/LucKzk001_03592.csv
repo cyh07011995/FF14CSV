@@ -8,7 +8,7 @@ int32,str,str
 3,TEXT_LUCKZK001_03592_SEQ_03,和熱心的亞馬烏羅提市民進行了交談。聽說包含會動的人偶在內，有很多創造物都可以登入。繼續和創造管理局內神色不安的亞馬烏羅提市民談談。
 4,TEXT_LUCKZK001_03592_SEQ_04,和神色不安的亞馬烏羅提市民進行了交談。看起來他在擔心自己的新創造物能否登入成功。為了傳達創造物的感想，在<hex:02280CFF05>EObj<hex:F61EAC0D0103>使用<hex:022811FF0A>EventItem<hex:F61E8EB40103>，討伐出現的<hex:02280FFF09>BNpcName<hex:F220DE0103>。
 5,TEXT_LUCKZK001_03592_SEQ_05,討伐了<hex:02280FFF09>BNpcName<hex:F220DE0103>。向創造管理局的神色不安的亞馬烏羅提市民報告。
-6,TEXT_LUCKZK001_03592_SEQ_06,神色不安的亞馬烏羅提市民認為<hex:02280FFF09>BNpcName<hex:F220DE0103>沒有登入的價值。他打算回去再次嘗試用創造魔法制造新的生物。
+6,TEXT_LUCKZK001_03592_SEQ_06,神色不安的亞馬烏羅提市民認為<hex:02280FFF09>BNpcName<hex:F220DE0103>沒有登入的價值。他打算回去再次嘗試用創造魔法製造新的生物。
 7,TEXT_LUCKZK001_03592_SEQ_07,
 8,TEXT_LUCKZK001_03592_SEQ_08,
 9,TEXT_LUCKZK001_03592_SEQ_09,

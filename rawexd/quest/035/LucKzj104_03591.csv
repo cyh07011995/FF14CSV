@@ -3,7 +3,7 @@
 offset,0,4
 int32,str,str
 0,TEXT_LUCKZJ104_03591_SEQ_00,<hex:024804F201FC03><hex:024904F201FD03>特殊規則： 等級調整<hex:0249020103><hex:0248020103><hex:02100103>鰭人潮池入口的納洛嘶·涳爾想要製作助產繩。
-1,TEXT_LUCKZJ104_03591_SEQ_01,※本任務為<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等級調整任務。<hex:02100103><hex:02100103>納洛嘶·涳爾想為鰭人族的母王制作特別的助產繩。在鰭人潮池北邊的<hex:02280CFF05>EObj<hex:F61EAD640103>張望並從<hex:02280FFF09>BNpcName<hex:F223320103>身上獲取<hex:022811FF0A>EventItem<hex:F61E8F3C0103>。
+1,TEXT_LUCKZJ104_03591_SEQ_01,※本任務為<hex:024804F201FC03><hex:024904F201FD03><hex:0249020103><hex:0248020103> 等級調整任務。<hex:02100103><hex:02100103>納洛嘶·涳爾想為鰭人族的母王製作特別的助產繩。在鰭人潮池北邊的<hex:02280CFF05>EObj<hex:F61EAD640103>張望並從<hex:02280FFF09>BNpcName<hex:F223320103>身上獲取<hex:022811FF0A>EventItem<hex:F61E8F3C0103>。
 2,TEXT_LUCKZJ104_03591_SEQ_02,獲得了<hex:022811FF0A>EventItem<hex:F61E8F3C0103>。趕快將東西交給鰭人潮池入口的納洛嘶·涳爾。
 3,TEXT_LUCKZJ104_03591_SEQ_03,將<hex:022811FF0A>EventItem<hex:F61E8F3C0103>交給了納洛嘶·涳爾。將他編織的<hex:022811FF0A>EventItem<hex:F61E8F3D0103>交給鰭人潮池的側近澤洛嘶·澳恩。
 4,TEXT_LUCKZJ104_03591_SEQ_04,將<hex:022811FF0A>EventItem<hex:F61E8F3D0103>交給了澤洛嘶·澳恩，在眾人一同的守望下鰭人族的母王完成了產卵。母王完成產卵之後，認為納洛嘶·涳爾在此次事件中成長為大人，所以由涳爾變為了澳恩。鰭人潮池的納洛嘶·澳恩想要跟冒險者道謝，和他談談吧。
@@ -60,7 +60,7 @@ int32,str,str
 55,TEXT_LUCKZJ104_03591_NAROSHSKOAL_000_015,<hex:02280FFF09>BNpcName<hex:F223320103>，為了覓食，會來到潮池北邊。<hex:02100103>在那周圍張望，尋找一下。<hex:02100103>為了母王大人，拜託你了……
 56,TEXT_LUCKZJ104_03591_NAROSHSKOAL_000_020,潮池北邊那裡，應該，會有<hex:02280FFF09>BNpcName<hex:F223320103>。<hex:02100103>打倒它們，獲取<hex:022811FF0A>EventItem<hex:F61E8F3C0103>，拿回來好嗎？<hex:02100103>為了母王大人，拜託，你了……
 57,TEXT_LUCKZJ104_03591_NAROSHSKOAL_000_030,<hex:022903EB0203>，怎麼樣了？<hex:02100103>拿到，<hex:022811FF0A>EventItem<hex:F61E8F3C0103>了嗎？
-58,TEXT_LUCKZJ104_03591_NAROSHSKOAL_000_031,謝謝了！<hex:02100103>強韌，而又柔軟，不錯的藤蔓。<hex:02100103>我馬上，把這個，撚在一起。
+58,TEXT_LUCKZJ104_03591_NAROSHSKOAL_000_031,謝謝了！<hex:02100103>強韌，而又柔軟，不錯的藤蔓。<hex:02100103>我馬上，把這個，捻在一起。
 59,TEXT_LUCKZJ104_03591_NAROSHSKOAL_000_032,這個藤蔓，這樣做……<hex:02100103>拉直這邊……嗚！
 60,TEXT_LUCKZJ104_03591_NAROSHSKOAL_000_033,哈……哈……做、做好了……<hex:02100103>製作，高強度的繩子，好累……<hex:02100103>給你，<hex:022903EB0203>……
 61,TEXT_LUCKZJ104_03591_NAROSHSKOAL_000_034,我，休息片刻，就去母王大人那裡……<hex:02100103>請你先將<hex:022811FF0A>EventItem<hex:F61E8F3D0103>，交給澤洛嘶……
