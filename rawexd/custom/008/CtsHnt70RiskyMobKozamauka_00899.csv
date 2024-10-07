@@ -2,7 +2,7 @@
 #,,
 offset,0,4
 int32,str,str
-0,TEXT_CTSHNT70RISKYMOBKOZAMAUKA_00899_BOLDUXUN_000_001,給你個忠告，克扎瑪烏卡濕地中棲息著許多色彩鮮艷的野生動物。<hex:02100103>那大多是威脅敵人的警戒色。<hex:02100103>你可不要被那鮮艷的外表騙了，誤以為它們沒什麼威脅。
+0,TEXT_CTSHNT70RISKYMOBKOZAMAUKA_00899_BOLDUXUN_000_001,給你個忠告，克扎瑪烏卡濕地中棲息著許多色彩鮮豔的野生動物。<hex:02100103>那大多是威脅敵人的警戒色。<hex:02100103>你可不要被那鮮豔的外表騙了，誤以為它們沒什麼威脅。
 1,TEXT_CTSHNT70RISKYMOBKOZAMAUKA_00899_BOLDUXUN_000_002,喲，你終於來了。<hex:02100103>波爾·歐伽讓我告訴你一些狩獵的資訊。<hex:02100103>如果你想了解這片區域中危險的魔物，儘管來問我。
 2,TEXT_CTSHNT70RISKYMOBKOZAMAUKA_00899_BOLDUXUN_Q1_000_000,想了解什麼？
 3,TEXT_CTSHNT70RISKYMOBKOZAMAUKA_00899_BOLDUXUN_A1_000_001,關於B級怪物：林中巨鱷——撞角頭
@@ -18,7 +18,7 @@ int32,str,str
 13,TEXT_CTSHNT70RISKYMOBKOZAMAUKA_00899_BOLDUXUN_000_021,顧名思義，正是因為它吃人，才會被通緝為惡名菁英。<hex:02100103>如果置之不理，一定會有更多人命喪其口。
 14,TEXT_CTSHNT70RISKYMOBKOZAMAUKA_00899_BOLDUXUN_000_022,所以你能盡快幫我們解決它嗎？<hex:02100103>哈努族善良淳樸，他們害怕的樣子實在讓我心碎。<hex:02100103>但只要格佐亞庫拜還活著，居民們的恐懼就不會消失。
 15,TEXT_CTSHNT70RISKYMOBKOZAMAUKA_00899_BOLDUXUN_000_030,每隔一段時間，就會有一隻紅眼的毒蛙從泥裡鑽出來，<hex:02100103>襲擊克扎瑪烏卡濕地。人們叫它「驚雨蟾蜍」，<hex:02100103>它非常擅長水屬性魔法，還喜歡和其他生物玩耍。
-16,TEXT_CTSHNT70RISKYMOBKOZAMAUKA_00899_BOLDUXUN_000_031,話雖如此，和它玩耍的一方通常都是被迫的，那叫一個遭罪。<hex:02100103>它的水屬性魔法威力驚人，切胳膊斷腿簡直就是灑灑水的事情。
+16,TEXT_CTSHNT70RISKYMOBKOZAMAUKA_00899_BOLDUXUN_000_031,話雖如此，和它玩耍的一方通常都是被迫的，那叫一個遭罪。<hex:02100103>它的水屬性魔法威力驚人，切胳膊斷腿簡直就是洒洒水的事情。
 17,TEXT_CTSHNT70RISKYMOBKOZAMAUKA_00899_BOLDUXUN_000_032,如果你要去討伐它，我可以給你一個建議。<hex:02100103>它是只表演欲旺盛的蛤蟆，喜歡用叫聲宣告自己的動作。<hex:02100103>所以只要在戰鬥時豎起耳朵，就能預判它的行動。
 18,TEXT_CTSHNT70RISKYMOBKOZAMAUKA_00899_BOLDUXUN_000_040,聲名顯赫的卓越武者佐拉加大人在兒時曾有過這樣一段軼事。<hex:02100103>為了磨練劍術，他抓了一隻巨喙蜂鳥到王宮裡，<hex:02100103>當蜂鳥在四周飛速盤旋時，他便試圖用木劍將其擊落。
 19,TEXT_CTSHNT70RISKYMOBKOZAMAUKA_00899_BOLDUXUN_000_041,時光飛逝，佐拉加因此掌握了疾如電掣的劍術，<hex:02100103>同時，為了應對佐拉加的成長，那隻巨喙蜂鳥也變得更加強大。<hex:02100103>某天，它掙脫了聯王宮的束縛，飛向了外界的天空。
