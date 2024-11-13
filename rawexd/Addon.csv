@@ -2866,7 +2866,7 @@ int32,str
 3070,<hex:022003E80203>/2
 3071,·<hex:02281DFF17>ContentFinderCondition<hex:F201272B03>
 3072,<hex:024804F2020203>支持任務回顧功能的任務<hex:0248020103>
-3073,·<hex:02281CFF17>ContentFinderCondition<hex:E8022B03>
+3073,·<hex:02281CFF17>ContentFinderCondition<hex:E8022C03>
 3074,暫無任務支持該功能。
 3075,·未開放任務
 3079,[<hex:022003E80203>] <hex:025004E8030303>:<hex:025004E8040303>:<hex:025004E8050303> <hex:02084DE1E80601FF2D><hex:020929E806FF14>開始/重新開始<hex:FF10>戰鬥內事件<hex:03><hex:FF19>戰鬥開始倒數計時<hex:03>
@@ -12591,7 +12591,7 @@ int32,str
 14812,
 14813,顯示任務搜尋器說明。
 14814,可更換同伴
-14815,與非玩家同伴一同進入<hex:02281CFF17>ContentFinderCondition<hex:E8022B03>將在今後開放
+14815,與非玩家同伴一同進入<hex:02281CFF17>ContentFinderCondition<hex:E8022C03>將在今後開放
 14816,將在今後的版本中開放。
 14820,原始伺服器
 14821,（無法確認角色名）
