@@ -273,7 +273,7 @@ int32,str,str
 268,TEXT_VOICEMAN_02500_D00210_ALPHINAUD,我明白了，提督。<hex:02100103>……剛才我失言了，請原諒。
 269,TEXT_VOICEMAN_02500_D00220_RAUBAHN,現在任命你為同盟軍冒險者選拔隊的隊長。<hex:02100103>你要召集各國軍內的冒險者，<hex:02100103>前往伊修加德參加保衛戰。
 270,TEXT_VOICEMAN_02500_D00230_RAUBAHN,娜娜莫陛下。<hex:02100103>臣想從恆輝隊盡量多派出一些兵力。
-271,TEXT_VOICEMAN_02500_D00240_RAUBAHN,暫時擴大銅刃團的許可權，讓銅刃團代為執行恆輝隊的治安任務。<hex:02100103>這樣，就能把多餘出來的部隊派往伊修加德了。<hex:02100103>還請陛下批準。
+271,TEXT_VOICEMAN_02500_D00240_RAUBAHN,暫時擴大銅刃團的許可權，讓銅刃團代為執行恆輝隊的治安任務。<hex:02100103>這樣，就能把多餘出來的部隊派往伊修加德了。<hex:02100103>還請陛下批准。
 272,TEXT_VOICEMAN_02500_D00250_RAUBAHN,陛下？
 273,TEXT_VOICEMAN_02500_D00260_NANAMOULNAMO,……啊。<hex:02100103>沒有問題，就由你妥善處理了。
 274,TEXT_VOICEMAN_02500_D00270_RAUBAHN,娜娜莫陛下是不是身體有不適？
@@ -369,7 +369,7 @@ int32,str,str
 364,TEXT_VOICEMAN_02500_O00090_MINFILIA,您這是在說什麼？！
 365,TEXT_VOICEMAN_02500_O00100_TELEDJIADELEDJI,你們也跑不了，我們有理由懷疑拂曉也參與了暗殺計劃！
 366,TEXT_VOICEMAN_02500_O00110_TELEDJIADELEDJI,帶上來！
-367,TEXT_VOICEMAN_02500_P00010_ILBERD,就在剛才，女王陛下被這個歹徒毒殺了！<hex:02100103>我們現在要調查其同夥拂曉血盟。<hex:02100103>大家都站在原地，不準擅自走動。
+367,TEXT_VOICEMAN_02500_P00010_ILBERD,就在剛才，女王陛下被這個歹徒毒殺了！<hex:02100103>我們現在要調查其同夥拂曉血盟。<hex:02100103>大家都站在原地，不准擅自走動。
 368,TEXT_VOICEMAN_02500_P00020_MINFILIA,……怎麼會！
 369,TEXT_VOICEMAN_02500_P00030_ILBERD,真是遺憾啊，大英雄。<hex:02100103>你居然會做出這種事……
 370,TEXT_VOICEMAN_02500_P00040_TELEDJIADELEDJI,我們從這個冒險者身上搜出了小瓶子，<hex:02100103>而且從裡面檢測出了毒害娜娜莫陛下的毒藥。

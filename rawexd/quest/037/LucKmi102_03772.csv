@@ -74,7 +74,7 @@ int32,str,str
 69,TEXT_LUCKMI102_03772_ALISAIE_000_080,全員到齊了吧！<hex:02100103>那就開始吧。
 70,TEXT_LUCKMI102_03772_ALISAIE_000_081,據說我們的目標，也就是<hex:02280FFF09>BNpcName<hex:F2256E0103>會吸取動物的血液。<hex:02100103>它們原本是夜行性生物，<hex:02100103>所以黑夜回歸之後它們的活動範圍就變廣了。
 71,TEXT_LUCKMI102_03772_ALISAIE_000_082,為了狩獵<hex:02280FFF09>BNpcName<hex:F2256E0103>，<hex:02100103>我拜託謝薩米爾幫忙準備了<hex:022811FF0A>EventItem<hex:F61E90390103>。<hex:02100103>這樣就能利用它們靠熱能探知獵物的習性，將其吸引過來。
-72,TEXT_LUCKMI102_03772_ALISAIE_000_083,你可以在任意地點設定<hex:022811FF0A>EventItem<hex:F61E90390103>，不過我只能給你3個哦。<hex:02100103>據說<hex:02280FFF09>BNpcName<hex:F2256E0103>習慣在房檐下築巢，<hex:02100103>所以設定在靠近建築物的地方可能會更有效。
+72,TEXT_LUCKMI102_03772_ALISAIE_000_083,你可以在任意地點設定<hex:022811FF0A>EventItem<hex:F61E90390103>，不過我只能給你3個哦。<hex:02100103>據說<hex:02280FFF09>BNpcName<hex:F2256E0103>習慣在房簷下築巢，<hex:02100103>所以設定在靠近建築物的地方可能會更有效。
 73,TEXT_LUCKMI102_03772_ALISAIE_000_084,……還有，作為狩獵的證明，<hex:02100103>你就把<hex:022811FF0A>EventItem<hex:F61E903A0103>拿回來好了。<hex:02100103>我們兩個誰獲得的牙多誰就贏！
 74,TEXT_LUCKMI102_03772_EIRWEL_000_085,誒？阿莉塞姐姐也要來演示嗎？<hex:02100103>我還以為只有「暗之戰士」大人呢……
 75,TEXT_LUCKMI102_03772_ALISAIE_000_086,有、有個對手的話，<hex:02100103><hex:022903EB0203>也會更加賣力對吧！
@@ -82,7 +82,7 @@ int32,str,str
 77,TEXT_LUCKMI102_03772_ALISAIE_000_088,那就開始狩獵<hex:02280FFF09>BNpcName<hex:F2256E0103>吧！
 78,TEXT_LUCKMI102_03772_RYNE_000_090,孩、孩、孩子們就交給我來看著吧！<hex:02100103>呃，我會一邊保護他們，一邊學習你們是如何戰鬥的……
 79,TEXT_LUCKMI102_03772_ARKIL_000_095,我會認真觀察<hex:020819E905FF0A>大姐姐<hex:FF0A>大哥哥<hex:03>的戰鬥方式的。<hex:02100103>放、放心吧，我不會靠得太近的！
-80,TEXT_LUCKMI102_03772_EIRWEL_000_100,<hex:02280FFF09>BNpcName<hex:F2256E0103>會在房檐下築巢……<hex:02100103>我學到了戰鬥中知己知彼的重要性！
+80,TEXT_LUCKMI102_03772_EIRWEL_000_100,<hex:02280FFF09>BNpcName<hex:F2256E0103>會在房簷下築巢……<hex:02100103>我學到了戰鬥中知己知彼的重要性！
 81,TEXT_LUCKMI102_03772_SYSTEM_000_105,<hex:02280FFF09>BNpcName<hex:F2256E0103>被吸引了過來！
 82,TEXT_LUCKMI102_03772_ARKIL_000_110,好、好帥氣啊！
 83,TEXT_LUCKMI102_03772_EIRWEL_000_115,在一瞬間就幹掉了<hex:02280FFF09>BNpcName<hex:F2256E0103>……好厲害！
