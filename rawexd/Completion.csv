@@ -1019,6 +1019,7 @@ int32,str,str,str
 2905,,獸魂量譜,Beast Gauge
 2906,,獸魂,Wrath
 2907,,龍血量譜,Dragon Gauge
+2908,,龍眼,Dragon Sight
 2909,,戰歌量譜,Song Gauge
 2910,,詩心,Repertoire
 2911,,百合花莖量譜,Healing Gauge
@@ -1284,7 +1285,7 @@ int32,str,str,str
 4031,,時尚配飾,fashion accessories
 4032,,義軍武器,Resistance weapon
 4033,,博茲雅搜尋器,Resistance Recruitment
-4034,,慶典,Fête
+4034,,慶典,Festival
 4037,,隨身見聞錄,The Unending Codex
 4038,,戰利水晶,Trophy Crystal
 4039,,肖像,portrait
@@ -1443,8 +1444,11 @@ int32,str,str,str
 5152,,阿卡狄亞登天鬥技場,The Arcadion
 5153,,阿卡狄亞零式登天鬥技場,The Arcadion (Savage)
 5154,,輕量級,Light-heavyweight
-5155,,,
-5156,,,
+5155,,光暗未來絕境戰,Futures Rewritten (Ultimate)
+5156,,朱諾：第一巡行,Jeuno: The First Walk
 5157,,白虎幻巧戰,The Jade Stoa (Unreal)
-5158,,永恆女王殲殛戰,The Minstrel's Ballad: Sphene's Burden
-5159,,,
+5158,,永恆女王憶想殲滅戰,The Minstrel's Ballad: Sphene's Burden
+5159,,玉韋亞瓦塔實驗站,Yuweyawata Field Station
+5160,,暗黑之雲破滅戰,The Cloud of Darkness (Chaotic)
+5161,,,
+5163,,朱雀幻巧戰,Hells' Kier (Unreal)
