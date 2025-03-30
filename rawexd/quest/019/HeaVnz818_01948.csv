@@ -5,7 +5,7 @@ int32,str,str
 0,TEXT_HEAVNZ818_01948_SEQ_00,田園郡的德利普威克斯幹勁十足地準備定規矩。
 1,TEXT_HEAVNZ818_01948_SEQ_01,為了解決租借道具的問題，德利普威克斯委託冒險者將<hex:022811FF0A>EventItem<hex:F61E8B6B0103>帶去給德萊德克斯。將<hex:022811FF0A>EventItem<hex:F61E8B6B0103>交給田園郡的德萊德克斯。
 2,TEXT_HEAVNZ818_01948_SEQ_02,德萊德克斯認為<hex:022811FF0A>EventItem<hex:F61E8B6B0103>上要記錄的條目太多，有些不滿……和田園郡的德利普威克斯談談。
-3,TEXT_HEAVNZ818_01948_SEQ_03,為了解決看守的問題，德利普威克斯委託冒險者將<hex:022811FF0A>EventItem<hex:F61E8B6C0103>交給塔普克里克斯。將<hex:022811FF0A>EventItem<hex:F61E8B6C0103>交給龍堡內陸低地游擊野營地的塔普克里克斯。
+3,TEXT_HEAVNZ818_01948_SEQ_03,為了解決看守的問題，德利普威克斯委託冒險者將<hex:022811FF0A>EventItem<hex:F61E8B6C0103>交給塔普克里克斯。將<hex:022811FF0A>EventItem<hex:F61E8B6C0103>交給龍堡內陸低地遊擊野營地的塔普克里克斯。
 4,TEXT_HEAVNZ818_01948_SEQ_04,塔普克里克斯看到地圖上標註的密密麻麻的邊境線後，感到十分不安……和田園郡的德利普威克斯談談。
 5,TEXT_HEAVNZ818_01948_SEQ_05,德利普威克斯認為問題已經解決，看上去非常滿意。不知他定的這些規矩究竟能否派上用場？
 6,TEXT_HEAVNZ818_01948_SEQ_06,
@@ -28,7 +28,7 @@ int32,str,str
 23,TEXT_HEAVNZ818_01948_SEQ_23,
 24,TEXT_HEAVNZ818_01948_TODO_00,將<hex:022811FF0A>EventItem<hex:F61E8B6B0103>交給德萊德克斯
 25,TEXT_HEAVNZ818_01948_TODO_01,和德利普威克斯對話
-26,TEXT_HEAVNZ818_01948_TODO_02,將<hex:022811FF0A>EventItem<hex:F61E8B6C0103>交給<hex:02100103>游擊野營地的塔普克里克斯
+26,TEXT_HEAVNZ818_01948_TODO_02,將<hex:022811FF0A>EventItem<hex:F61E8B6C0103>交給<hex:02100103>遊擊野營地的塔普克里克斯
 27,TEXT_HEAVNZ818_01948_TODO_03,向田園郡的德利普威克斯報告
 28,TEXT_HEAVNZ818_01948_TODO_04,
 29,TEXT_HEAVNZ818_01948_TODO_05,

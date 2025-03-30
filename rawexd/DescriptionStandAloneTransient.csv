@@ -21,5 +21,7 @@ int32,str,str
 16,FRONTLINE,紛爭前線解說
 17,CRYSTALLINE CONFLICT,水晶衝突解說
 18,MOGMOG COLLECTION,莫古莫古★大收集解說
-19,OUTFIT,查看設計搭配相關的解說
-20,,戰鬥說明
+19,OUTFIT,設計搭配相關的解說
+20,BATTLE,戰鬥解說
+21,MAHJONG,多瑪方城戰解說
+22,,
