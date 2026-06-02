@@ -2,7 +2,7 @@
 #,,
 offset,0,4
 Int32,String,String
-0,TEXT_HEAVNZ215_01784_SEQ_00,悲嘆飛泉的一籌莫展的獵人正眼淚汪汪地看著瀑布池。
+0,TEXT_HEAVNZ215_01784_SEQ_00,悲嘆飛泉的一籌莫展的獵人正淚眼汪汪地看著瀑布池。
 1,TEXT_HEAVNZ215_01784_SEQ_01,一籌莫展的獵人拜託冒險者尋找自己遺失的武器。前往龍堡參天高地悲嘆飛泉，尋找不知去向的<hex:02280CFF05>EObj<hex:F61E9A670103>。
 2,TEXT_HEAVNZ215_01784_SEQ_02,發現了<hex:02280CFF05>EObj<hex:F61E9A670103>。將<hex:02280CFF05>EObj<hex:F61E9A670103>還給悲嘆飛泉的一籌莫展的獵人。
 3,TEXT_HEAVNZ215_01784_SEQ_03,將<hex:02280CFF05>EObj<hex:F61E9A670103>還給了一籌莫展的獵人。<hex:02280CFF05>EObj<hex:F61E9A670103>經過瀑布沖刷已經受到了損傷，需要回尾羽集落接受修理。
