@@ -1,7 +1,7 @@
-﻿key,2,3,3
-#,LookupTable,Text,Text
-offset,8,0,0
-Int32,String,String,str
+﻿key,2,3,4
+#,LookupTable,Text,GroupTitle
+offset,8,0,4
+Int32,String,String,String
 100,@,【語言】,【Languages】
 101,,請使用定型文翻譯系統。,Please use the auto-translate function.
 102,,日語,Japanese language
